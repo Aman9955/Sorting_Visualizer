@@ -1,3 +1,5 @@
+<h1><a href="https://aman9955.github.io/Sorting_Visualizer/">Click to View Live Site</a></h1>
+
 # Sorting_Visualizer
 
 A web application showcasing the inner workings of sorting algorithms.
